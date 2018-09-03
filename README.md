@@ -1,6 +1,5 @@
 # macOS status-bar-todo
 
-[![Travis builds](https://travis-ci.org/p0deje/Maccy.svg?branch=master)](https://travis-ci.org/p0deje/Maccy)
 [![Swift 4.1](https://img.shields.io/badge/swift-4.1-orange.svg?style=flat)](https://github.com/apple/swift)
 [![Platform](http://img.shields.io/badge/platform-macOS-red.svg?style=flat)](https://developer.apple.com/macos/)
 [![Twitter](https://img.shields.io/badge/twitter-@jiansoung-blue.svg?style=flat)](https://twitter.com/jiansoung)
